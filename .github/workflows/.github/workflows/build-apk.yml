@@ -1,6 +1,6 @@
 name: Build City Empire APK
 
-on:
+'on':
   workflow_dispatch:
   push:
     branches: [ "main" ]
